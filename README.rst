@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspecialpointcentral%2Flat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fspecialpointcentral%2Flat?ref=badge_shield)
+
 ===========
 LATX (Loongson Architecture Translator for x86)
 ===========
@@ -207,3 +209,7 @@ STEP3:
 
 如有任何问题或建议，欢迎通过 Issue 与我们交流！
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fspecialpointcentral%2Flat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fspecialpointcentral%2Flat?ref=badge_large)
